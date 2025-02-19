@@ -1,11 +1,21 @@
-[![MasterHead](https://camo.githubusercontent.com/5fd5419f4e46ab10d996aa90515b9b4a7e95948812aa9cb21c19108ae25ef6dc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a304b464231375f4e47545042305857796334425367512e6a706567)](https://manasjena.io)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg)
+
 <h1 align="center">Hi 👋, I'm Manas Ranjan Jena</h1>
-
-
-<img align = "right" alt = "coding" width = "400" src ="https://camo.githubusercontent.com/2e41811f1e0af7ecc1d6f31f11bad7c02f85d902ea67df9f0c461c7f137cdf8d/68747470733a2f2f632e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" >
+<h3 align="left">About Myself:</h3>
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+quick+learner;Computer+science+Undergraduate " alt="Typing SVG" /></a>
 
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder454&label=Profile%20views&color=0e75b6&style=flat" alt="coder454" /> </p>
+
+- 👨‍💻 All of my projects are available at [something.com](something.com)
+
+- 💬 Ask me about **open source**
+
+- 📫 How to reach me **mjena0989@gmail.com**
+
+- 📄 Know about my experiences [linkedin.com](linkedin.com)
 
 - ⚡ Fun fact **I am funny😊**
 
@@ -23,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder454&show_icons=true&locale=en" alt="coder454" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder454&" alt="coder454" /></p>
+
+
